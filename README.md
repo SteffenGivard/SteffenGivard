@@ -7,4 +7,4 @@ I'm a graphic design and an UX enthusiast who also loves to code 🤓
 - 🔗 Visit my website, [steffengivard.dk](https://steffengivard.dk), for more
 
 
-[![Steffen Givard](https://github-readme-stats.vercel.app/api?username=SteffenGivard&show_icons=true&count_private=true&theme=dark)](https://steffengivard.dk)
+[![Steffen Givard](https://github-readme-stats.vercel.app/api?username=SteffenGivard&show_icons=true&count_private=true&theme=white)](https://steffengivard.dk)
