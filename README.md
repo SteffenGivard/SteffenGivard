@@ -2,7 +2,7 @@
 
 I'm a graphic design and an UX enthusiast who also loves to code 🤓
 
-- 🌱 I’m currently learning [Ansible](https://github.com/ansible/ansible) and [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
+- 🌱 I’m currently learning git, [Ansible](https://github.com/ansible/ansible), and [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
 - 📫 Want to chat? Reach me at [LinkedIn](https://linkedin.com/in/steffengivard)
 - 🔗 Visit my website, [steffengivard.dk](https://steffengivard.dk), for more
 
